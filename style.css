@@ -9,3 +9,6 @@ h2 {margin-left: 7%;
 }
 h2 {background-color: aqua;
 }
+h1 {border-style: double;
+    border-color: blueviolet;
+    border-width: 6px;}
